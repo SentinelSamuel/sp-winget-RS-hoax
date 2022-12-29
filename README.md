@@ -21,6 +21,7 @@ Copy of the real Hoaxshell (https://github.com/t3l3machus/hoaxshell) with modifi
 
 ## Installation + configuration before the start
 ```
+# maybe try with sudo ?
 git clone https://github.com/t3l3machus/hoaxshell.git
 sudo rm ./hoaxshell/hoaxshell.py
 git clone https://github.com/SentinelSamuel/sp-hoaxshell.git
