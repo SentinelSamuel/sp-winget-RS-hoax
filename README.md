@@ -23,11 +23,13 @@ bash python-server-1.sh
 ```
 ### 2) Start hoaxshell
 ```
+# IN ANOTHER BASH PROMPT
 # maybe a sudo before ?
 bash hoaxshell-2.sh  
 ```
 ### 3) Make the info file correct
 ```
+# IN ANOTHER PROMPT
 # maybe a sudo before ?
 pwsh info-3.ps1
 ```
