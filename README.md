@@ -23,7 +23,7 @@ cd sp-hoax/
 # maybe a sudo before ?
 bash python-server-1.sh
 ```
-<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture2.png" width="400">
+<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture2.png" width="500">
 
 ### 2) Start hoaxshell
 ```
@@ -31,7 +31,7 @@ bash python-server-1.sh
 # maybe a sudo before ?
 bash hoaxshell-2.sh  
 ```
-<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture3.png" width="400">
+<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture3.png" width="500">
 
 ### 3) Make the info file correct
 ```
@@ -39,7 +39,7 @@ bash hoaxshell-2.sh
 # maybe a sudo before ?
 pwsh info-3.ps1
 ```
-<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture4.png" width="400">
+<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture4.png" width="500">
 
 ## Some infos :
 ```
