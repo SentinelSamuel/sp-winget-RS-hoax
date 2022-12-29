@@ -3,11 +3,15 @@
 ### AFTER INSTALLING AND DOING EVERYTHING IN THE sp-hoaxshell
 Winget.ps1 & winget-manifest.yml --> upload on the target machine
 
-You have to start :
-``` 
-sudo bash change-sha256.sh 
-``` 
+## Installation & configuration before the start :
+```
+https://github.com/SentinelSamuel/sp-winget-RS-hoax.git
 
+ 
+``` 
+```
+sudo bash change-sha256.sh
+```
 
 # sp-hoaxshell
 Copy of the real Hoaxshell (https://github.com/t3l3machus/hoaxshell) with modifications to automatise everything
