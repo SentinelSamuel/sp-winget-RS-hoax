@@ -31,13 +31,15 @@ bash python-server-1.sh
 # maybe a sudo before ?
 bash hoaxshell-2.sh  
 ```
+<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture3.png" width="400">
+
 ### 3) Make the info file correct
 ```
 # IN ANOTHER BASH PROMPT
 # maybe a sudo before ?
 pwsh info-3.ps1
 ```
-
+<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture4.png" width="400">
 
 ## Some infos :
 ```
