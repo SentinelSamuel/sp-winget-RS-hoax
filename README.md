@@ -2,7 +2,7 @@
 Copy of the real Hoaxshell (https://github.com/t3l3machus/hoaxshell) with modifications to automatise everything
 & see : https://github.com/SentinelSamuel/sp-hoaxshell
 
-![alt text](https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Hoax.png)
+![alt text](https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Hoax.png){:style="width: 200px;"}
 
 ## Installation + configuration before the start
 ```
