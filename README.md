@@ -1,19 +1,3 @@
-# Reverse-Shell with winget
-
-### AFTER INSTALLING AND DOING EVERYTHING IN THE sp-hoaxshell
-Winget.ps1 & winget-manifest.yml --> upload on the target machine
-
-## Installation & configuration before the start :
-```
-git clone https://github.com/SentinelSamuel/sp-winget-RS-hoax.git
-cd ./sp-winget-RS-hoax/winget
-``` 
-
-### 1) Start Sha256 changer
-```
-sudo bash change-sha256.sh
-```
-
 # sp-hoaxshell
 Copy of the real Hoaxshell (https://github.com/t3l3machus/hoaxshell) with modifications to automatise everything
 & see : https://github.com/SentinelSamuel/sp-hoaxshell
@@ -46,4 +30,18 @@ bash hoaxshell-2.sh
 ```
 # maybe a sudo before ?
 pwsh info-3.ps1
+```
+
+## AFTER INSTALLING AND DOING EVERYTHING IN THE sp-hoaxshell
+Winget.ps1 & winget-manifest.yml --> upload on the target machine
+
+## Installation & configuration before the start :
+```
+git clone https://github.com/SentinelSamuel/sp-winget-RS-hoax.git
+cd ./sp-winget-RS-hoax/winget
+``` 
+
+### 1) Start Sha256 changer
+```
+sudo bash change-sha256.sh
 ```
