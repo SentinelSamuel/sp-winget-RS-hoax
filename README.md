@@ -5,7 +5,7 @@ Winget.ps1 & winget-manifest.yml --> upload on the target machine
 
 ## Installation & configuration before the start :
 ```
-https://github.com/SentinelSamuel/sp-winget-RS-hoax.git
+git clone https://github.com/SentinelSamuel/sp-winget-RS-hoax.git
 
  
 ``` 
