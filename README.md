@@ -24,6 +24,7 @@ cd sp-hoax/
 bash python-server-1.sh
 ```
 <img src="https://github.com/SentinelSamuel/sp-winget-RS-hoax/blob/main/img-for-Readme/Picture2.png" width="400">
+
 ### 2) Start hoaxshell
 ```
 # IN ANOTHER BASH PROMPT
