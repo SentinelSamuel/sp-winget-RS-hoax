@@ -5,7 +5,7 @@ if ! command -v pwsh &> /dev/null; then
 fi
 
 FILE1=windows-update.exe
-FILE2=../windows-update.exe
+FILE2=../../windows-update.exe
 FILE3=./sha256
 
 if test -f "$FILE1"; then 
