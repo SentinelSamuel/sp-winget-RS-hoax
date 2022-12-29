@@ -1,5 +1,6 @@
 # Reverse-Shell with winget
 
+### AFTER INSTALLING AND DOING EVERYTHING IN THE sp-hoaxshell
 Winget.ps1 & winget-manifest.yml --> upload on the target machine
 
 You have to start :
