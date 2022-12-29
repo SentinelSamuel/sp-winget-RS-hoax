@@ -6,8 +6,7 @@ Winget.ps1 & winget-manifest.yml --> upload on the target machine
 ## Installation & configuration before the start :
 ```
 git clone https://github.com/SentinelSamuel/sp-winget-RS-hoax.git
-sudo mv ./sp-winget-RS-hoax ./winget
-cd winget
+cd ./sp-winget-RS-hoax/winget
 ``` 
 ```
 sudo bash change-sha256.sh
