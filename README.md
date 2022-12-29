@@ -8,6 +8,8 @@ Winget.ps1 & winget-manifest.yml --> upload on the target machine
 git clone https://github.com/SentinelSamuel/sp-winget-RS-hoax.git
 cd ./sp-winget-RS-hoax/winget
 ``` 
+
+### 1) Start Sha256 changer
 ```
 sudo bash change-sha256.sh
 ```
